@@ -3,9 +3,11 @@
 ### Kitty Party Lore Plan
 
 #### Game Mechanics
-TBC
+This will be a pixel ARG with like characters that can go around and explore a small room/land per chapter.
+
 #### Project Objective
-TBC
+Introduce the concept, drive the initial narrative of Kitty Party. They Why.
+
 #### Game Character Description
 
 Main character:  …
